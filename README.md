@@ -1,4 +1,4 @@
-- Hi, I’m Inti Hernández Servitja
+- Hi, I’m Inti
 - I’m interested in programming and music
 - I’m currently learning rust
 - To contact me, use intivioli@gmail.com or my discord algorhythmics
