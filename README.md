@@ -1,4 +1,4 @@
-- Hi, I’m Algorhythmics
+- Hi, I’m Inti Hernández Servitja
 - I’m interested in programming and music
 - I’m currently learning rust
 - To contact me, use intivioli@gmail.com or my discord algorhythmics
