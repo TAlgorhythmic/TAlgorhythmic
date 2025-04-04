@@ -1,6 +1,8 @@
 - Hi, I’m Inti
-- I’m interested in programming and music
-- I’m currently learning rust
+- I’m passionate about programming and music
+- I’m currently studying at 42 Barcelona
+- I'm developing a human-like AI in rust because why not.
+- I'm obsessed about sound quality, one day I will develop a software meant to improve sound quality.
 - To contact me, use intivioli@gmail.com or my discord algorhythmics
 
 <!---
